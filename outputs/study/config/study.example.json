@@ -1,0 +1,19 @@
+{
+  "study_id": "new-prospective-close-pilot",
+  "status": "SETUP",
+  "phase": "agent-assisted-v1",
+  "start_session": null,
+  "sessions": [],
+  "planned_sessions": 60,
+  "planned_symbols": 30,
+  "timezone": "America/Detroit",
+  "forecast_deadline": "09:15:00",
+  "price_source": "Yahoo Finance daily OHLCV; exchange-source baseline/target",
+  "official_close_verified": false,
+  "model_identity": "unavailable",
+  "generation_settings": "unavailable",
+  "context_isolation": "unavailable; recurring chat context",
+  "api_credentials_present": false,
+  "protocol_version": "1.1",
+  "blockers": ["Validate live sources for this new study", "Complete an on-time morning numeric rehearsal"]
+}

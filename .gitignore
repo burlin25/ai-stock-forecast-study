@@ -1,0 +1,23 @@
+# Research source records and third-party raw news stay local.
+work/
+outputs/study/data/
+outputs/study/reports/
+outputs/study/scripts/__pycache__/
+outputs/study/tests/__pycache__/
+__pycache__/
+*.py[cod]
+*.sqlite*
+.DS_Store
+.env
+.env.*
+!.env.example
+node_modules/
+
+# Machine-specific runtime, scheduling, and evolving operational state.
+outputs/study/config/automation.json
+outputs/study/config/heartbeat_prompt.txt
+outputs/study/config/runtime.json
+outputs/study/config/study.json
+outputs/study/STATUS.md
+outputs/study/README.md
+outputs/study/PROPOSED_AMENDMENT.md
